@@ -1,0 +1,50 @@
+{
+  "groups": {
+    "120363286437291640@g.us": {
+      "catalog": [
+        {
+          "name": "panz",
+          "items": [
+            {
+              "name": "panz1",
+              "price": 10000
+            }
+          ]
+        }
+      ],
+      "items": []
+    },
+    "120363294698325092@g.us": {
+      "catalog": [
+        {
+          "name": "panxy",
+          "items": [
+            {
+              "name": "jembod goreng",
+              "price": 10000
+            },
+            {
+              "name": "pepek bakar",
+              "price": 20000
+            }
+          ]
+        }
+      ],
+      "items": []
+    },
+    "120363168077173781@g.us": {
+      "catalog": [
+        {
+          "name": "jembod",
+          "items": [
+            {
+              "name": "pepek",
+              "price": 10101010
+            }
+          ]
+        }
+      ],
+      "items": []
+    }
+  }
+}
